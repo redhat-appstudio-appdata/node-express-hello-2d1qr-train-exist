@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: node-express-hello-rxba
     app.kubernetes.io/part-of: node-express-hello
-  name: node-express-hello-rxba
+  name: node-express-hello-rxbavneh
 spec:
   path: /
   port:
