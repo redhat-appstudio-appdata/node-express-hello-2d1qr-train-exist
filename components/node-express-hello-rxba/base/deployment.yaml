@@ -25,7 +25,7 @@ spec:
         app.kubernetes.io/instance: node-express-hello-rxba
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/arewm-tenant/node-express-hello/node-express-hello-rxba@sha256:4c51d019ee50e19d77c773761f00376e03e3b98e63c3c6c64ba0a438955a9348
+      - image: quay.io/redhat-user-workloads/arewm-tenant/node-express-hello/node-express-hello-rxba@sha256:82a5d989ebe2b5d8b2858894a1bf6fb245df921473ef19940773e3ded4712f39
         name: my-nodejs
         ports:
         - containerPort: 3001
