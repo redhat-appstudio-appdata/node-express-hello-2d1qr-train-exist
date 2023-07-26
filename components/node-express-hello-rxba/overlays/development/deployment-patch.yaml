@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/arewm-tenant/node-express-hello/node-express-hello-rxba@sha256:d36ae7a6871686c14e323015a8b3c16da6db00bff406251ccc12e3d3d26c5a65
+      - image: quay.io/redhat-user-workloads/arewm-tenant/node-express-hello/node-express-hello-rxba@sha256:7bce3023b34aa147614ad774192da4829ca1687468884acf10e374af8e519592
         name: my-nodejs
         resources: {}
 status: {}
